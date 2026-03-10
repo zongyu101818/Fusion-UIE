@@ -93,4 +93,4 @@ class FrequencyGuidedFusion(nn.Module):
         output = self.activate(self.norm(output))
         
         return output
-    
+    #你是87
