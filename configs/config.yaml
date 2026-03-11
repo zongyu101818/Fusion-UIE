@@ -1,9 +1,9 @@
 # Training configuration
 training:
-  checkpoints_dir: 'ckpts'
+  checkpoints_dir: 'ckpts_dwt'
   batch_size: 12
   learning_rate_g: 0.0002
-  end_epoch: 50
+  end_epoch: 10
   img_extension: '.png'
   image_size: 512
   beta1: 0.5
